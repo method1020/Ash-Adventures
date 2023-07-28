@@ -156,7 +156,7 @@ As an action, you present your holy symbol, and a sphere of twilight emanates fr
 ## Chapter 1 - Willdale and the Cloakwood
 ::
 
-### Day 1 - Travels to Willdale
+### Travels to Willdale
 *Play Date: June 20, 2023*
 ::
 
@@ -171,7 +171,7 @@ We received a letter from a courier with a request for us to find [Talia](#talia
 
 ::::
 
-### Day 2 - Meeting Talia
+### Meeting Talia
 *Play Date: June 27, 2023*
 ::
 #### Middle of the Night
@@ -210,39 +210,19 @@ We met [Talia](#talia) outside. She informed us we have been hired to determine 
 : 
 [Talia](#talia) has provided us direction, and we set out.
 :
+### The Cloakwood
+
 #### Discovering the Cloakwood
 :
-*Section commented out while I rewrite this - Ash*
-
-<!-- This is a comment that will not be rendered into your brew. Hotkey (Ctrl/Cmd + /). 
-
-**glade to the north-east where they are attacking from.
-talia gives directions.**
-
-**following a trail. -- used by smaller brownies 4ft tall.
-some regularity
-following the gaps in the trees.**
-**ash recalls generally the brownies
-	setup little camps all over the place
-	no common leadership, live and keep to themselves
-	prefer finding interesting location and  good sources of food.
-	tend to leave humanoids alone.**
-**stories of the sentinels getting forced out of towers.**
-
-**brownies speak sylvan, sometimes halfling, sometimes common.
-4
-karan climbs a tree, very big tree, but doesn't really see anything.**
-
-
-**ash and kuran went south, the rest went to the easet.
-the path looks well worn and quiet.
-heat a lot of wildlife.**
-
-**the group to the north comes out to an opening in the forest.***
--->
-:::::::::
-
-### Day 2 - Continuation of the Cloakwood
+We embarked on a path known to be tread by the Brownies in and through the [Cloakwood](#cloakwood), diminutive creatures standing no taller than four feet. We moved through the forest, guided by the gaps in the trees, where the sunlight streamed through to light our way.
+:
+My mind drifted back to old stories and knowledge: the Brownies, typically solitary creatures, with no central leadership to speak of. They set up camps in various locations, drawn to the beauty of the world and the promise of ample sustenance. They often steer clear of humanoids, choosing to dwell in peace. Tales speak of Sylvans driven out of their towers - a disturbing anecdote of the times we live in. Their language is a mixture of Sylvan, Halfling, and at times, Common. 
+:
+[Kuran](#kuran) attempted to get a better view of our surroundings by scaling a towering tree but was unable to spot anything significant.
+:
+As the forest path narrowed, we made a strategic decision to split up - [D3PUTY](#d3puty) and [Aleric](#aleric-mysticmind-stoneweaver) ventured east, while [Kuran](#kuran) and I headed south. The path underfoot was well-trodden and quiet, the silence only punctuated by the sounds of wildlife in the distance.
+:
+Eventually, those who headed east found themselves in a clearing, a vast opening in the otherwise dense woodland. I look forward to reuniting with them soon and sharing what we have discovered in our respective journeys.
 ::
 #### The Tent
 :
@@ -258,18 +238,21 @@ Every step I took was deliberate, ensuring I made no unnecessary noise that coul
 :
 Navigating through the dense foliage, I followed the concealed trail with determination. I carefully evaded any traces of detection, my instincts guiding me towards the rendezvous point. Finally, I emerged from the forest, relieved to see the familiar faces of [Aleric](#aleric-mysticmind-stoneweaver), [Kuran](#kuran), and [D3PUTY](#d3puty) waiting for me.
 :
+{{pageNumber,auto}}
+{{footnote Chapter 1 | Willdale and The Cloakwood}}
+\page
+
+
+:
 With a sense of accomplishment, I explained my decision to bypass the worn and disheveled camp, focusing instead on our shared journey and the mysteries that awaited us. 
 :
 #### Fudh and Goim
 :
 We headed south towards the tent and [Kuran](#kuran) and I skillfully approached the worn and disheveled tent, our curiosity pushed us to investigate further. [Kuran](#kuran) quietly peeked inside, revealing a surprising scene of Brownies engrossed in sticks and dice games. Among them, two stood out—one with a brown hat and the other with a distinctive red hat.
 :
+
 To our astonishment, the Brownie with the red hat noticed Kuran's presence and eagerly divulged details about their camp. He mentioned that their leader, known as [Grum](#grum), was waiting for us. Intrigued, [Aleric](#aleric-mysticmind-stoneweaver) joined our conversation, observing that the Brownie with the red hat seemed a little peculiar, smirking and hinting at the mysterious nature of meeting Grum.
 :
-{{pageNumber,auto}}
-{{footnote Chapter 1 | Willdale and The Cloakwood}}
-\page
-
 They introduce themselves as [Fud](#fud) and [Goim](#goim).
 :
 However, it was [the Brownie](#the-brownies) wearing the brown hat who seized the opportunity. He cunningly offered to exchange our gold for a chance to meet Grum and be guided to their camp. With a slight hesitation, we relinquished the gold, intrigued by the prospect of discovering more about these enigmatic Brownies and their elusive leader.
@@ -294,69 +277,118 @@ As the dust settles, the once lively camp now lies in silence, only the rustling
 :
 With a collective understanding, we decide to make our way back, carrying Grum with us. The forest slowly envelopes us once more as we walk through the undergrowth, retracing our steps to return to the place where it all began.
 :
-Our minds buzz with thoughts of the encounters we've had and the mysteries that still linger. Together, we forge ahead, our bond growing stronger with every step we take. A new adventure awaits us, and we are ready to face whatever the forest has in store, united as a resilient and formidable group.
+{{pageNumber,auto}}
+{{footnote Chapter 1 | Willdale and The Cloakwood}}
+\page
+
 :
-#### Returning to Willdale
+#### Night Settles In
 :
-As I quietly rest inside Grum's dingy tent, I observe through my sleepless trance the lively interactions around me. Lucy's arrival sparks laughter and amusement as she shares her latest escapade, trying to hawk the stolen pants from her time in Willdale. Her mischievous spirit never fails to bring a smile to our faces (well, most of our fa ces).
+Settled within the confines of [Grum](#grum)'s dim-lit camp, I'm kept awake by the hum of activity around me. [Lucy](#lucy) saunters in, eliciting laughter and amusement from the group as she recounts her latest adventure - an audacious feat involving selling her pilfered trousers from her days in Willdale. Her knack for light-hearted trouble seems to have an almost magical way of lifting our spirits (well, for most of us at least).
 :
-Deciding to spend the night in Grum's thatch hut, D3PUTY and Lucy stand outside, engaged in a conversation that seems both deep and lighthearted. I hear snippets of real-life questions that they discuss.
+Having made the decision to overnight in [Grum](#grum)'s thatched shelter, I can hear [D3PUTY](#d3puty) and [Lucy](#lucy) engaged in earnest conversation just beyond the entrance. Their words - questions of reality and meaning - drift in and out of my hearing.
+:
+From my place of quiet observation, I watch as [D3PUTY](#d3puty) scrutinises [Grum](#grum) with a hardened gaze. He senses a potent, malevolent magic surrounding [Grum](#grum), a force that carries echoes of the Feywild or perhaps the Shadowfell. The air seems to thicken with intrigue and uncertainty as [Grum](#grum) holds us within his enigmatic grip.
+:
+[Lucy](#lucy), guided by her instinctual acumen for the arcane, tries to discern the nature of [Grum](#grum)'s divine patron. She appears to determine that [Grum](#grum) is a being displaced from another plane, deepening the shroud of mystery that wraps around this curious Boggle.
+:
+![campfire](https://github.com/method1020/Ash-Adventures/blob/main/images/chapter_1/out-campfire.jpg?raw=true) {width:100%,mix-blend-mode:multiply}
+:
+As the hours stretch on, I remain ever-watchful, my senses attuned to the sounds and movements that fill the night. The campfire casts dancing shadows across the faces of my companions, its crackling chorus a soothing lullaby against the backdrop of hushed voices. In my state of restful alertness, I bear witness to the stories spun, the revelations uncovered, and the riddles posed - each deepening the complexity of our enthralling journey.
+::
+### Returning to Willdale
+::
+#### Leaving the Brownie Camp
+:
+We, as a group, had been preparing to depart from the camp when our path crossed with that of a unique creature, a Brownie named [Alarin](#alarin), donned in an eye-catching purple hat. She was returning from her ventures in the forest, her wary eyes telling stories untold.
+:
+Her fear was tangible in the cool air, an emotion I aimed to assuage temporarily using the soporific spores of my magical shoulder mushrooms, their mystical properties sending her into a deep slumber. In her vulnerable state, [Kuran](#kuran) conducted an intrusive yet necessary search, a necessity that never ceases to unsettle me.
+:
+Upon awakening, [Alarin](#alarin) was met with the calming demeanor of [Aleric](#aleric-mysticmind-stoneweaver), his soothing words breaking through her initial trepidation. In the midst of this, [Lucy](#lucy), seizing an opportunity with an impish grin, absconded with Alarin's purple hat.
+:
+[Alarin](#alarin)'s attempts at escaping bore no fruit, her fear driving her actions. She revealed tales of a certain Grum, a creature who ruled over the Brownies through fear. Lucy, relentless in her pursuit of knowledge, pressed Alarin for more information. To underscore our intent, I channeled my Thaumaturgy, amplifying Lucy's voice until it echoed ominously throughout the quiet forest. Alarin relented, marking on our map of the Cloakwood forest where others of her kind could be found.
+:
+With our newly acquired knowledge, we made the collective decision to return to the lumber camp, hopeful to find Talia. As I sit here under the canopy of twilight, our recent encounters weigh on my mind. The balance of our world remains delicate, yet I am hopeful. Standing united with my companions, I trust that we can guide those burdened by fear towards the dawn's light. 
+::
+
+#### Back at the Lumber Camp
+:
+We returned to the lumber camp in [Willdale](#willdale) and reunited with [Talia](#talia). As we gathered around her cabin, I observed the curious sight of [Grum](#grum), the boggle, perched on [D3PUTY](#d3puty)'s back. The encounter with the boggle had left us with many questions, and we eagerly reported to [Talia](#talia) about the dark faye magic we had encountered surrounding [Grum](#grum).
+:
+{{pageNumber,auto}}
+{{footnote Chapter 1 | Willdale and The Cloakwood}}
+\page
+:
+[Talia](#talia) took a keen interest in [Grum](#grum) and inspected him closely. I couldn't help but notice the oozing and deteriorating state of [Grum](#grum)'s arm, a result of the necrotic damage I had inflicted during our intense battle with him. [Talia](#talia)'s initial impulse was to shoot and kill [Grum](#grum), but [D3PUTY](#d3puty) intervened, preventing her from taking drastic action.
+:
+In an unexpected turn of events, [Grum](#grum) suddenly blinked or teleported away while [Lucy](#lucy) tried to charm him for more information about his origin. [Kuran](#kuran) attempted to shoot him with his bow, but the arrow missed its mark.
+:
+Despite the chaotic encounter, [Talia](#talia) expressed her gratitude, rewarding us for successfully stopping [Grum](#grum). She seemed pleased that we had managed to do so without harming the Brownies in the process.
+:
+[Talia](#talia) now seeks to introduce us to her master, [Sæsephyr](#sæsephyr). Intrigued by the opportunity, we follow [Talia](#talia) as she leads us to a point on the coast, where a small cabin and pier await. The mysteries of this journey continue to unfold, and I am eager to see what awaits us in the presence of [Sæsephyr](#sæsephyr) and the adventures that lie ahead.
+:
+#### Sæsephyr
+:
+Our journey led us to the pier, where [Talia](#talia) guided us to meet [Sæsephyr](#sæsephyr). As we approached, a heavy air filled the surroundings, as if foretelling an impending storm.
+:
+Then, from the depths of the water, a mesmerizing sight appeared—a scaly and shimmery figure materialized, revealing an enormous dragon—an ancient mist dragon. Its presence was awe-inspiring, and although I had heard stories of such beings in these lands, I had never laid eyes on one before.
+:
+![sas](https://github.com/method1020/Ash-Adventures/blob/main/images/people/saesephyr.jpg?raw=true) {width:100%,mix-blend-mode:multiply}
+:
+The dragon, whom [Talia](#talia) addressed as [Sæsephyr](#sæsephyr), seemed to have some familiarity with me, though I couldn't quite place it. Tales of an ancient mist dragon named [Sæsephyr](#sæsephyr) had circulated, and I now found myself standing before this enigmatic creature.
+:
+Aleric's unease was evident, and Kuran shared the same sentiments. Their caution was well-founded in the presence of such an imposing being.
+:
+[Sæsephyr](#sæsephyr) spoke with wisdom and urgency, revealing a long-forgotten tale of two wizards seeking ancient magical artifacts near the town of Haling Cove. The fate of these artifacts and the surrounding realms rested on their decisions. The demise of the wizards—Archmage Roberto and the ambitious Belven—remained shrouded in mystery, with the ominous presence of The Sæsha'sol (The Sea Gloom) casting shadows over their fate.
+:
+The dragon entrusted us with a crucial task—to journey to Haling Cove and uncover the lost artifacts. A daunting responsibility, one that [Sæsephyr](#sæsephyr) himself refrained from taking due to the attention it might draw.
+:
+As a sign of his trust, [Sæsephyr](#sæsephyr) offered us magical tools from the cabin by the pier, essential for our upcoming quest.
 :
 {{pageNumber,auto}}
 {{footnote Chapter 1 | Willdale and The Cloakwood}}
 \page
 
-From my vantage point, I watch as D3PUTY studies Grum closely, sensing a dark and ominous magic surrounding him—a magic that reminds us of the Faye wilds or the Shadow Fells. Grum's presence seems to carry an aura of uncertainty and intrigue, and I can't help but wonder about the secrets he holds.
+{{descriptive
+##### Sæsephyr
+“Travelers, I have asked Talia to seek you out, because I believe you have the best chance to succeed. Long ago, two wizards sought out ancient magical artifacts, near the town of Haling Cove. Archmage Roberto believed he could unravel their secrets and took with him a delegation to take the artifacts somewhere they could be kept safe and studied, whereas the younger, more ambitious Wizard Belven wanted to study them for himself, and knew as soon as they were in Roberto’s vaults they’d be out of his reach.
 :
-Lucy, with her astute intuition, attempts to figure out what deity Grum worships, her knowledge of the arcane guiding her investigation. She seems to deduce that Grum was pulled from another plane, adding yet another layer of mystery to this enigmatic Boggle.
+“As Roberto prepared to take an artifact from the oceans, he was found murdered on the docks. Some suspected Belven, but the town of Haling Cove sided with Belven - they found him charming, and he planned to retrieve the tablet for himself.
 :
-As the night deepens, I continue to listen to the conversations and watch the events unfold around me. The campfire crackles, casting shadows on the faces of my companions. While I rest, my mind remains alert, taking in the stories, the discoveries, and the enigmas that make our journey ever more fascinating.
+A few months later, Belven was also found dead, his back full of tiny spears - likely the work of the The Sæsha'sol (The Sea Gloom). It’s uncertain whether he found and retrieved any of the artifacts or not.
 :
-![campfire](https://github.com/method1020/Ash-Adventures/blob/main/images/chapter_1/out-campfire.jpg?raw=true) {width:100%,mix-blend-mode:multiply}
+Go to Haling Cove and find the artifacts. The fate of the Cloakwood, the Sea of Swords, and perhaps even Faerun itself hangs in the balance. I would do this task myself, but fear I would draw far too much attention to things that are best left quiet.
 :
-### Day 3 - Leaving the Cloakwood
-::
-#### Heading Back to Town
+The presence of your Boggle suggests that the situation is worsening, and we can no longer simply watch.
+}}
 :
 
-* aleric and ash saw a brownie with a purlple hat
-* ash puts her to sleep
-* she is searched.
-* we wake her up adn aleric calms her down?
-* lucy takes her hat 
-* name is aralin, moms name is linda
-* she tries to escape but fails.
-* Grom was mean to the brownies, controlled by fear.
-* lucy lays into aralin for information about the other brownies. Ash assists with Thaumaturgy to make lucy's voice boom.
-* she marks some places in the cloakwood where brownies are known to live.
-* we made our way back to the lumber camp to see talia.
-:
-#### Back at the Lumber Camp
-:
-* run into talia.
-* she sees the boggle on the back of d3puty.
-* we report about the dark faye magic.
-* talia checks out grum.
-* grums arm is oozing and falling off.
-* 'define harm' 'shutup'
-* talia wants to shoot grum and kill him.
-* d3puty stops her.
-* grom blinks out of the way while lucy is trying to charm him.
-* kuran tries to shoot him with a bow but misses.
-* received gold from talia.
-* talia is happy we didn't hurt the brownies.
-* talia wants us to meet her master.Sæsephyr
-* talia leads us to a point on the coast.
 
-#### Sæsephyr
 
-* talia leads us to Sæsephyr out on the pier.
-* make character note for Saes.
-* air is heavy like a storm is coming.
-* Scaly shimmery figure appears. huge dragon.
-* Ash vaguely recognizes Saes. Ancient mist dragon that was around these parts. But never seen a mist dragon before.
-* aleric is does not like the looks of this dragon before them.
-* kuran doesn't like him either. something about a giant penis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * arch mage roberto take two artifacts from howling code
 * wizard belvin wanted to study tehm for himself.
 * roberto was found murdered on the docks.
@@ -372,7 +404,6 @@ As the night deepens, I continue to listen to the conversations and watch the ev
 * d3puty checks the fountain on the way to the cabin where the supplies are. there are runes on the side of the fountain.
 * aleric assists and recognizes it as a mana fountain but doesn't understand the runes to know how it works.
 * lucy tells them to drink from it. TRIPLE DOG DARE.
-\page
 * talia scoops up water and drinks it before aleric can touch it.
 * shark tooth dagger with shark teath running down both sides.
   * adv on attacks against aquatic damage
@@ -391,12 +422,101 @@ As the night deepens, I continue to listen to the conversations and watch the ev
 * ash takes the timepiece.
 * fighting over all the goods
 * ash shell
-* we fill up small vials of mana
-* drink before spell add 2 to spell casting modifier
+* **we fill up small vials of mana**
+* **drink before spell add 2 to spell casting modifier**
 or roll a d20, if 11 plus you restore a spell slot
 * active town, not well off like it used to be.
 * lucy is going to try to turn d3puty into a fiend worshiper.
 * ash has two vials.
+
+## new day thing from 7/25/2023 -- chapter 5???
+
+* bronze timepiece cast haste for 1 minute, 24hrs to recharge.
+* haling cove
+* chapters are each day??? - table talk
+::
+* going to enter town at night.
+* hear someone coming down the road.
+  * see a pair of centaurs walking down the road.
+  * lucy pops out in front of the centaurs
+  * deputy recalls that centaurs have slightly bio-luminescent skin that gives them a soft blue or purple look. - members of the shadowglow clan.
+  * good chance they are friendly.
+  * lucy told them about sae but alleris convinced them dragon was a nickname.
+  * they beleived us.
+  * they tell us the route should be clear to howling cove.
+  * tells us to stay off the beaches. 
+  * tells us there are odd creatures on the coast.
+  * we follow them to town.
+* we get to howling cove.
+  * we are coming in at dusk.
+  * ash sees something in the clearing and checks. something appears to be buried here.
+  * ash remembers this was the mass grave from the sick.
+  * lots of sick refugees were kept out of town.
+  * all died over night.
+  * haling cove is forgotten memories for d3puty.
+  * ash looks out for sylvan sentinals but doesnt see anything.
+  * ash recalls that the path to the right goes to town. as it was a major source of foot traffic.
+* resting
+  * we decide to rest at a small abandoned camp nearby.
+  * lucy searches the tents while we all rest.
+  * she comes across some antlers and skins.
+  * an abandoned mine is up north of us in the distance. a cave enterance is visible and some abandoned equipment.
+  * d3puty looks into the trees and feels the presence of fae. he sees a sylvan tower.
+  * lucy looks at the map from the brownies and shows that part of the map indicates a part of the map nearby and shows a brownie settlement not too far away.
+* cliff climb.
+  * ash and d3puty climb the cliff. lucy and kuran fall down.
+  * aleric is walking around via the path. uses lucy's drift orb to light his way.
+  * ash ties a rope around d3puty and and kuran climb up.
+  * lucy chaces after aleric and follows with him up the path.
+* walk
+  * aleric looks around adn doesnt see much.
+* kuran looks around and sees trees. notices a heavily overgrown guard tower. the vines and branches appear to be holding up the tower. there may be some left over stairs.
+  * walls matted together to form little rooms at different parts under, around, and up the tower, and in the nearby trees. there is light coming through the cracks of a few of these.
+  * ash recognizes these as an old sylvan sentinal tower.
+  * ash gets closer and sees that there are signs of brownies.
+  * we go to the door and approach. we mention fud and goim to the brownie that answers the door.
+  * the brownie (she) is skeptical
+  * man and woman brownie come out with a bunch of 4oz cups of some kind of frothy liquid.
+  * she throws a burning log into a fireplace.
+
+  “Travelers, I have asked Talia to seek you out, because I believe you have the best chance to succeed. Long ago, two wizards sought out ancient magical artifacts, near the town of Haling Cove. Archmage Roberto believed he could unravel their secrets and took with him a delegation to take the artifacts somewhere they could be kept safe and studied, whereas the younger, more ambitious Wizard Belven wanted to study them for himself, and knew as soon as they were in Roberto’s vaults they’d be out of his reach.
+
+“As Roberto prepared to take an artifact from the oceans, he was found murdered on the docks. Some suspected Belven, but the town of Haling Cove sided with Belven - they found him charming, and he planned to retrieve the tablet for himself.
+
+“A few months later, Belven was also found dead, his back full of tiny spears - likely the work of the The Sæsha'sol (The Sea Gloom). It’s uncertain whether he found and retrieved any of the artifacts or not.
+
+“Go to Haling Cove and find the artifacts. The fate of the Cloakwood, the Sea of Swords, and perhaps even Faerun itself hangs in the balance. I would do this task myself, but fear I would draw far too much attention to things that are best left quiet.
+
+“The presence of your Boggle suggests that the situation is worsening, and we can no longer simply watch.
+
+* aleric and lucy going to town.
+* aleric going through a long monolog to lucy, turns around, and she is gone.
+* as he approaches town, he hears a voice calling out to him.
+* a woman in the distance is callign out to him, with her hand on her hilt.
+* she questions him about traveling alone at night. he tries to play out of it but she calls his bluff.
+* he mentions lucy had wandered off but she still looks at him questioning it.
+* she calls his bluff again.  he tells her what is going on.
+* she relaxes some with his honesty, taking her hand off the hilt.
+* she directs him to the inn. tells him her name is 'corynn' she is the sherif. though her jurisdiction isn't very strong these days.
+* corynn, mid 30s, appears human, scragly, mohawk with an eye patch over her right eye, sheriffs badge, didnt look like she was wearing a ful lset of armor.
+
+
+* ash asks the brownies about belvin and roberto, they had heard the stories, may ahve knew them.
+* the brownies dont usually go to town, if they do they try to be unseen.
+* they visit the honey fountain.
+* ash pays the brownies for their hospitality and we head off to town.
+* ash recalls there is an inn/pub downtown near the shops that maybe aleris and lucy may be found.
+* also knows there is one down byt he docks.
+
+* and we meet up in town
+* on the way kuran is skwetching plans for his hammok.
+
+* we meet up at the inn.
+* ash asks the bar keep for a room.
+* there are a handful of people in the pub.
+* mostly human, a dwarf, and a half elf.
+
+Sheriff Corrine Forton
 
 
 \page
