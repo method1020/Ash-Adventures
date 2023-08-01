@@ -68,7 +68,7 @@ As an action, you present your holy symbol, and a sphere of twilight emanates fr
 | [Guidance](#guidance)                 | [Faerie Fire](#faerie-fire)     | 
 | [Spare the Dying](#spare-the-dying)               | [Guiding Bolt](#guiding-bolt)     | 
 | [Thaumaturgy](#thaumaturgy)               | [Inflict Wounds](#inflict-wounds)     | 
-| | [Shield of Faith](#shield-of-faith) |
+| | [Shield of Faith](#shield-of-faith) (Bonus)|
 | | [Sleep](#sleep) |
 
 }}
@@ -77,7 +77,6 @@ As an action, you present your holy symbol, and a sphere of twilight emanates fr
 {{footnote About Me}}
 
 \page
-
 {{toc,wide
 # Table Of Contents
 
@@ -89,57 +88,61 @@ As an action, you present your holy symbol, and a sphere of twilight emanates fr
     - [{{ Prepared Spells}}{{ 2}}](#p2)
 - ### [{{ Journal}}{{ 4}}](#p4)
   - #### [{{ Chapter 1 - Willdale and the Cloakwood}}{{ 4}}](#p4)
-    - [{{ Day 1 - Travels to Willdale}}{{ 4}}](#p4)
-    - [{{ Day 2 - Meeting Talia}}{{ 4}}](#p4)
-    - [{{ Day 2 - Continuation of the Cloakwood}}{{ 5}}](#p5)
-    - [{{ Day 3 - Leaving the Cloakwood}}{{ 7}}](#p7)
-- ### [{{ Adventurers and Friends}}{{ 9}}](#p9)
-  - [{{ Aleric Mysticmind Stoneweaver}}{{ 9}}](#p9)
-  - [{{ Kuran Ardoise}}{{ 9}}](#p9)
-  - [{{ Lucy}}{{ 9}}](#p9)
-  - [{{ D3PUTY}}{{ 9}}](#p9)
-- ### [{{ People and Relationships}}{{ 10}}](#p10)
-  - [{{ Aralin}}{{ 10}}](#p10)
-  - [{{ The Brownies (General)}}{{ 10}}](#p10)
-  - [{{ Fudh}}{{ 10}}](#p10)
-  - [{{ Goim}}{{ 10}}](#p10)
-  - [{{ Grum}}{{ 10}}](#p10)
-  - [{{ Sæsephyr}}{{ 10}}](#p10)
-  - [{{ Talia}}{{ 10}}](#p10)
-- ### [{{ Locations}}{{ 11}}](#p11)
-  - [{{ Haling Cove}}{{ 11}}](#p11)
-  - [{{ Willdale}}{{ 11}}](#p11)
-  - [{{ The Cloakwood}}{{ 12}}](#p12)
-- ### [{{ Historical Knowledge}}{{ 13}}](#p13)
-  - #### [{{ History of Haling Cove}}{{ 13}}](#p13)
-    - [{{ The Ebon Tide}}{{ 13}}](#p13)
-- ### [{{ Spellbook}}{{ 14}}](#p14)
-  - #### [{{ Cantrips}}{{ 14}}](#p14)
-    - [{{ Guidance}}{{ 14}}](#p14)
-    - [{{ Light}}{{ 14}}](#p14)
-    - [{{ Mending}}{{ 14}}](#p14)
-    - [{{ Resistance}}{{ 14}}](#p14)
-    - [{{ Sacred Flame}}{{ 14}}](#p14)
-    - [{{ Spare The Dying}}{{ 14}}](#p14)
-    - [{{ Thaumaturgy}}{{ 15}}](#p15)
-  - #### [{{ Spells}}{{ 16}}](#p16)
-    - [{{ Bane}}{{ 16}}](#p16)
-    - [{{ Bless}}{{ 16}}](#p16)
-    - [{{ Command}}{{ 16}}](#p16)
-    - [{{ Create or Destroy Water}}{{ 16}}](#p16)
-    - [{{ Cure Wounds}}{{ 17}}](#p17)
-    - [{{ Detect Evil or Good}}{{ 17}}](#p17)
-    - [{{ Detect Magic}}{{ 17}}](#p17)
-    - [{{ Detect Poison or Disease}}{{ 17}}](#p17)
-    - [{{ Faerie Fire}}{{ 17}}](#p17)
-    - [{{ Guiding Bolt}}{{ 17}}](#p17)
-    - [{{ Healing Wounds}}{{ 18}}](#p18)
-    - [{{ Inflict Wounds}}{{ 18}}](#p18)
-    - [{{ Protection from Evil and Good}}{{ 18}}](#p18)
-    - [{{ Purify Food and Drink}}{{ 18}}](#p18)
-    - [{{ Sanctuary}}{{ 18}}](#p18)
-    - [{{ Shield of Faith}}{{ 18}}](#p18)
-    - [{{ Sleep}}{{ 19}}](#p19)
+    - [{{ Travels to Willdale}}{{ 4}}](#p4)
+    - [{{ Meeting Talia}}{{ 4}}](#p4)
+    - [{{ The Cloakwood}}{{ 5}}](#p5)
+    - [{{ Returning to Willdale}}{{ 7}}](#p7)
+  - #### [{{ Chapter 2 - Haling Cove}}{{ 10}}](#p10)
+    - [{{ Headed Home}}{{ 10}}](#p10)
+- ### [{{ Adventurers and Friends}}{{ 11}}](#p11)
+  - [{{ Aleric Mysticmind Stoneweaver}}{{ 11}}](#p11)
+  - [{{ Kuran Ardoise}}{{ 11}}](#p11)
+  - [{{ Lucy}}{{ 11}}](#p11)
+  - [{{ D3PUTY}}{{ 11}}](#p11)
+- ### [{{ People and Relationships}}{{ 12}}](#p12)
+  - [{{ Aralin}}{{ 12}}](#p12)
+  - [{{ The Brownies (General)}}{{ 12}}](#p12)
+  - [{{ Fudh}}{{ 12}}](#p12)
+  - [{{ Goim}}{{ 12}}](#p12)
+  - [{{ Grum}}{{ 12}}](#p12)
+  - [{{ The Gyrewalkers}}{{ 12}}](#p12)
+  - [{{ Sæsephyr}}{{ 12}}](#p12)
+  - [{{ Talia}}{{ 13}}](#p13)
+- ### [{{ Locations}}{{ 14}}](#p14)
+  - [{{ The Cloakwood}}{{ 14}}](#p14)
+  - [{{ Haling Cove}}{{ 14}}](#p14)
+  - [{{ Sea of Swords}}{{ 15}}](#p15)
+  - [{{ Willdale}}{{ 15}}](#p15)
+- ### [{{ Historical Knowledge}}{{ 16}}](#p16)
+  - #### [{{ History of Haling Cove}}{{ 16}}](#p16)
+    - [{{ The Ebon Tide}}{{ 16}}](#p16)
+- ### [{{ Spellbook}}{{ 17}}](#p17)
+  - #### [{{ Cantrips}}{{ 17}}](#p17)
+    - [{{ Guidance}}{{ 17}}](#p17)
+    - [{{ Light}}{{ 17}}](#p17)
+    - [{{ Mending}}{{ 17}}](#p17)
+    - [{{ Resistance}}{{ 17}}](#p17)
+    - [{{ Sacred Flame}}{{ 17}}](#p17)
+    - [{{ Spare The Dying}}{{ 17}}](#p17)
+    - [{{ Thaumaturgy}}{{ 18}}](#p18)
+  - #### [{{ Spells}}{{ 19}}](#p19)
+    - [{{ Bane}}{{ 19}}](#p19)
+    - [{{ Bless}}{{ 19}}](#p19)
+    - [{{ Command}}{{ 19}}](#p19)
+    - [{{ Create or Destroy Water}}{{ 19}}](#p19)
+    - [{{ Cure Wounds}}{{ 20}}](#p20)
+    - [{{ Detect Evil or Good}}{{ 20}}](#p20)
+    - [{{ Detect Magic}}{{ 20}}](#p20)
+    - [{{ Detect Poison or Disease}}{{ 20}}](#p20)
+    - [{{ Faerie Fire}}{{ 20}}](#p20)
+    - [{{ Guiding Bolt}}{{ 20}}](#p20)
+    - [{{ Healing Wounds}}{{ 21}}](#p21)
+    - [{{ Inflict Wounds}}{{ 21}}](#p21)
+    - [{{ Protection from Evil and Good}}{{ 21}}](#p21)
+    - [{{ Purify Food and Drink}}{{ 21}}](#p21)
+    - [{{ Sanctuary}}{{ 21}}](#p21)
+    - [{{ Shield of Faith}}{{ 21}}](#p21)
+    - [{{ Sleep}}{{ 22}}](#p22)
 }}
 
 
@@ -175,7 +178,6 @@ We received a letter from a courier with a request for us to find [Talia](#talia
 *Play Date: June 27, 2023*
 ::
 #### Middle of the Night
-*Play Date: June 27, 2023*
 ::
 I was awoken in the middle of the night from my resting state. I heard a noise from the darkness ahead but couldn't quite place it. The rest of my adventurers appeared to be sleeping, having rushed from town the evening before. The ash's from the nights fire barely glowing. 
 :
@@ -211,6 +213,8 @@ We met [Talia](#talia) outside. She informed us we have been hired to determine 
 [Talia](#talia) has provided us direction, and we set out.
 :
 ### The Cloakwood
+*Play Date: July 11, 2023*
+
 
 #### Discovering the Cloakwood
 :
@@ -297,6 +301,7 @@ From my place of quiet observation, I watch as [D3PUTY](#d3puty) scrutinises [Gr
 As the hours stretch on, I remain ever-watchful, my senses attuned to the sounds and movements that fill the night. The campfire casts dancing shadows across the faces of my companions, its crackling chorus a soothing lullaby against the backdrop of hushed voices. In my state of restful alertness, I bear witness to the stories spun, the revelations uncovered, and the riddles posed - each deepening the complexity of our enthralling journey.
 ::
 ### Returning to Willdale
+*Play Date: July 18, 2023*
 ::
 #### Leaving the Brownie Camp
 :
@@ -311,13 +316,14 @@ Upon awakening, [Alarin](#alarin) was met with the calming demeanor of [Aleric](
 With our newly acquired knowledge, we made the collective decision to return to the lumber camp, hopeful to find Talia. As I sit here under the canopy of twilight, our recent encounters weigh on my mind. The balance of our world remains delicate, yet I am hopeful. Standing united with my companions, I trust that we can guide those burdened by fear towards the dawn's light. 
 ::
 
-#### Back at the Lumber Camp
-:
-We returned to the lumber camp in [Willdale](#willdale) and reunited with [Talia](#talia). As we gathered around her cabin, I observed the curious sight of [Grum](#grum), the boggle, perched on [D3PUTY](#d3puty)'s back. The encounter with the boggle had left us with many questions, and we eagerly reported to [Talia](#talia) about the dark faye magic we had encountered surrounding [Grum](#grum).
-:
 {{pageNumber,auto}}
 {{footnote Chapter 1 | Willdale and The Cloakwood}}
 \page
+
+
+#### Back at the Lumber Camp
+:
+We returned to the lumber camp in [Willdale](#willdale) and reunited with [Talia](#talia). As we gathered around her cabin, I observed the curious sight of [Grum](#grum), the boggle, perched on [D3PUTY](#d3puty)'s back. The encounter with the boggle had left us with many questions, and we eagerly reported to [Talia](#talia) about the dark faye magic we had encountered surrounding [Grum](#grum).
 :
 [Talia](#talia) took a keen interest in [Grum](#grum) and inspected him closely. I couldn't help but notice the oozing and deteriorating state of [Grum](#grum)'s arm, a result of the necrotic damage I had inflicted during our intense battle with him. [Talia](#talia)'s initial impulse was to shoot and kill [Grum](#grum), but [D3PUTY](#d3puty) intervened, preventing her from taking drastic action.
 :
@@ -349,7 +355,7 @@ As a sign of his trust, [Sæsephyr](#sæsephyr) offered us magical tools from th
 {{footnote Chapter 1 | Willdale and The Cloakwood}}
 \page
 
-{{descriptive
+{{note
 ##### Sæsephyr
 “Travelers, I have asked Talia to seek you out, because I believe you have the best chance to succeed. Long ago, two wizards sought out ancient magical artifacts, near the town of Haling Cove. Archmage Roberto believed he could unravel their secrets and took with him a delegation to take the artifacts somewhere they could be kept safe and studied, whereas the younger, more ambitious Wizard Belven wanted to study them for himself, and knew as soon as they were in Roberto’s vaults they’d be out of his reach.
 :
@@ -360,93 +366,77 @@ A few months later, Belven was also found dead, his back full of tiny spears - l
 Go to Haling Cove and find the artifacts. The fate of the Cloakwood, the Sea of Swords, and perhaps even Faerun itself hangs in the balance. I would do this task myself, but fear I would draw far too much attention to things that are best left quiet.
 :
 The presence of your Boggle suggests that the situation is worsening, and we can no longer simply watch.
-}}
 :
+-Sæsephyr
+}}
+
+Our meeting with [Sæsephyr](#Sæsephyr) bore important counsel - the Sea of Swords is treacherous and best avoided, we were advised to stick to land routes. Retrieving the artifacts ourselves was deemed the prudent choice, for if [Sæsephyr](#Sæsephyr) were to attempt, it might draw an undesirable amount of attention. However, [Sæsephyr](#Sæsephyr)'s promise of assistance should we need and call for it was reassuring.
+:
+Even as we discussed our plans, [Lucy](#lucy) showed her carefree spirit, leaping into the water from the pier, swimming lazily, revelling in the moment. Meanwhile, [Aleric](#aleric-mysticmind-stoneweaver) sought to understand the relationship between Talia and [Sæsephyr](#Sæsephyr), learning that Talia served as [Sæsephyr](#Sæsephyr)'s emissary in dealing with others.
+:
+The mention of Haling Cove stirred my memory - a story from my childhood about two wizards, Belvin and Roberto. As a child, I had lived through their time, their tales now a part of history and lore.
+:
+Our journey brought us past a fascinating fountain near the pier as we made our way to the cabin for supplies. [D3PUTY](#d3puty) examined the fountain, noticing runes inscribed along its side. Despite [Aleric](#aleric-mysticmind-stoneweaver)'s assistance, the nature of the runes eluded us, though we recognized the fountain as a potential source of mana.
+:
+In a playful jest, [Lucy](#lucy) dared us to drink the water, and before [Aleric](#aleric-mysticmind-stoneweaver) could even respond, Talia scooped up a handful of the fountain's water and drank, a demonstration of faith in the unknown.
+
+{{descriptive
+#### Small Vial of Mana
+*Potion*
+:
+These small vials of mana provide many benefits: Drink before a spell to add 2 to the consumers spell casting modifier or roll a D20, if 11 or greater, restore a spell slot.
+}}
 
 
+#### The Cabin
+:
+Upon entering the cabin, we discovered an array of wondrous and mysterious objects on display:
+:
+* A shark tooth dagger, with teeth running down both sides, promised advantage against aquatic foes. 
+* An enchanted snail shell functioned as a magical courier, allowing the holder to cast 'Sending' once per day. 
+* An ancient piece of mariner's armor, weathered by the sea, bristled with barnacles but promised enhanced swimming speed and resistance against being knocked prone.
+* A driftwood trident, interlaced with bits of coral, held the power to dominate aquatic creatures. 
+* A magical net of snaring had the capability to trap enemies and could adjust its size to accommodate any creature up to large size. 
+* The mantle of a manta ray, heavy and imposing, granted underwater breathing and increased swimming speed.
+* A softly glowing pearl could replenish a spell slot up to third level once per day. 
+* A glass orb, recognized as a drift globe, radiated a daylight spell with a 60-foot radius once per day. 
+* A barnacled harp, crafted by the merfolk, could inspire allies with bardic inspiration once per day when played.
+* A coral staff functioned as a spellcasting focus and allowed its bearer to control water once per day. 
+* A luminous compass, [D3PUTY](#d3puty) identified the luminous compass as the handiwork of the Gyrewalkers - a nomadic group known for their advanced technology.
+* Lastly, a bronze timepiece with the power to cast haste for one minute once every 24 hours piqued my interest, and I decided to claim it.
+
+:
+Amidst our fascination and mild bickering over the remaining items, we took our leave, each filling a small vial with mana from the cabin.
+
+{{pageNumber,auto}}
+{{footnote Chapter 1 | Willdale and The Cloakwood}}
+\page
+
+## Chapter 2 - Haling Cove
+:
+### Headed Home
+*Play Date: July 25, 2023*
+:
+*Looking back, my time spent in Haling Cove floods my mind with vibrant recollections. The idyllic bay city, draped in a harmony of nature and civilization, always felt like a second home. The Sylvan Sentinels, my family, maintained a vigil over the encompassing forest, ensuring the city's tranquility. As a child, I would often lose myself in the labyrinth of marketplaces, drawn to the symphony of bustling life, the scent of spices, and the sight of numerous wares from far-off lands. I remember the wizards, Belvin and Roberto, their stories of magic and wonder resonating deep within me. Despite not being a part of the Sentinels myself, Haling Cove still shaped me, its influence running as deep as the roots of the forest that guards it.*
+:
+:
+#### Centaurs
+:
+We resolved to enter Haling Cove under the cover of night, a decision accompanied by a shroud of uncertainty. Our journey began on a well-trodden path between [Willdale](#willdale) and [Haling Cove](#haling-cove), under the vast, twinkling canvas of the evening sky.
+:
+As we traveled, the rustling sounds of approach reached our ears. Drawing on my elven instincts, I melted into the shadows of the trees flanking our path. To our surprise, we were greeted by the sight of a pair of centaurs moving gracefully down the road. [Lucy](#lucy), ever the impulsive one, emerged in front of the majestic creatures, creating a momentary standstill.
+:
+[D3PUTY](#d3puty), in his typical observant manner, whispered to us that these centaurs, bathed in an ethereal bioluminescent glow, were likely members of the Shadowglow clan, and generally friendly. As Lucy attempted to explain our connection with [Sæsephyr](#Sæsephyr) the dragon, [Aleric](#aleric-mysticmind-stoneweaver) swiftly intervened, spinning a tale that Sæsephyr was merely a moniker, not an actual dragon. Astonishingly, the centaurs bought into the lie.
+:
+Providing us with invaluable information, they confirmed the route to Haling Cove should be unobstructed. However, they warned us to steer clear of the beaches, citing unusual creatures lurking along the coast. Their words, laced with caution, added an edge to my already wary spirits.
+:
+Deciding to err on the side of caution, we trailed the centaurs from a safe distance until the silhouette of Haling Cove began to take shape through the darkened trees. 
+:
+#### Familiar Woods
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* arch mage roberto take two artifacts from howling code
-* wizard belvin wanted to study tehm for himself.
-* roberto was found murdered on the docks.
-* charming belvin was later found dead with tiny holes in his back.
-* sea of swords.
-* seas can't get the artificats becuase it will cause a lot of unwanted anttenion .
-* saes will provide aid if it is needed.
-* lucy jumps into the water.
-* aleris asks talia how she knows the dragon
-* talia is saes's proxy for talking to people
-* the sound of howl'n cove jogs ash's memeory. ash knows the story of belvin and other dude
-* ash was a child when these two wizards were alive
-* d3puty checks the fountain on the way to the cabin where the supplies are. there are runes on the side of the fountain.
-* aleric assists and recognizes it as a mana fountain but doesn't understand the runes to know how it works.
-* lucy tells them to drink from it. TRIPLE DOG DARE.
-* talia scoops up water and drinks it before aleric can touch it.
-* shark tooth dagger with shark teath running down both sides.
-  * adv on attacks against aquatic damage
-* snail shell, sounds like there is some sort of enchantment on it, can be used to send a message to someone and hear the response. cast stendign once per day.  
-* mariners armor - old armor, weathered, beaten by the sea, barnicles, make swimming speed equal to your walking sepeed and bonus on saving throws against getting knocked prone
-* driftwood trident - bits of coral intertwined, regular trident b ut can also be used to dominate aquatic creatures
-* net of snaring - magic net can be used to trap enemies, grow and shrink in size, any creature up to large creature.
-* mana ray cloak, giant chunk of manray, heavy, allows breath under water, increasers swim speed to 60ft.
-* glowing pearl - used to regain a spell slot, up to third level, ocne per day. 
-* glass ball - recognized as a drift globe, 60ft radius cast a daylight spell, once per day.
-* sharktooth dagger already explained above.
-* sea snail shell - used to cast sendign once per day.
-* barnicled harp - crafted by merfolk. played to give away someone a bardic insperitation once per day.
-* coral staff - spell casting focus, allowes to control water once per day.
-* luminous compass - d3puty recognizes the bronze timepiece as likely being crafted by Gyrewalkers - technologically advanced nomadic group, mixed of races, sale, fly, hop from town to town. they come and go, keep to themselves, howl cove for a bit, d3puty may have been constructed by them. brass compass can ask for * bronze timepiece - can cast haste for 1 minute but then needs 24hrs to recharge.
-* ash takes the timepiece.
-* fighting over all the goods
-* ash shell
-* **we fill up small vials of mana**
-* **drink before spell add 2 to spell casting modifier**
-or roll a d20, if 11 plus you restore a spell slot
-* active town, not well off like it used to be.
-* lucy is going to try to turn d3puty into a fiend worshiper.
-* ash has two vials.
-
-## new day thing from 7/25/2023 -- chapter 5???
-
-* bronze timepiece cast haste for 1 minute, 24hrs to recharge.
-* haling cove
-* chapters are each day??? - table talk
-::
-* going to enter town at night.
-* hear someone coming down the road.
-  * see a pair of centaurs walking down the road.
-  * lucy pops out in front of the centaurs
-  * deputy recalls that centaurs have slightly bio-luminescent skin that gives them a soft blue or purple look. - members of the shadowglow clan.
-  * good chance they are friendly.
-  * lucy told them about sae but alleris convinced them dragon was a nickname.
-  * they beleived us.
-  * they tell us the route should be clear to howling cove.
-  * tells us to stay off the beaches. 
-  * tells us there are odd creatures on the coast.
-  * we follow them to town.
+**STUFF BELOW NEEDS TO BE EDITED/REWRITTEN.**
+  
 * we get to howling cove.
   * we are coming in at dusk.
   * ash sees something in the clearing and checks. something appears to be buried here.
@@ -456,6 +446,7 @@ or roll a d20, if 11 plus you restore a spell slot
   * haling cove is forgotten memories for d3puty.
   * ash looks out for sylvan sentinals but doesnt see anything.
   * ash recalls that the path to the right goes to town. as it was a major source of foot traffic.
+:
 * resting
   * we decide to rest at a small abandoned camp nearby.
   * lucy searches the tents while we all rest.
@@ -463,14 +454,18 @@ or roll a d20, if 11 plus you restore a spell slot
   * an abandoned mine is up north of us in the distance. a cave enterance is visible and some abandoned equipment.
   * d3puty looks into the trees and feels the presence of fae. he sees a sylvan tower.
   * lucy looks at the map from the brownies and shows that part of the map indicates a part of the map nearby and shows a brownie settlement not too far away.
+:
 * cliff climb.
   * ash and d3puty climb the cliff. lucy and kuran fall down.
   * aleric is walking around via the path. uses lucy's drift orb to light his way.
   * ash ties a rope around d3puty and and kuran climb up.
   * lucy chaces after aleric and follows with him up the path.
+:
+\page
+:
 * walk
   * aleric looks around adn doesnt see much.
-* kuran looks around and sees trees. notices a heavily overgrown guard tower. the vines and branches appear to be holding up the tower. there may be some left over stairs.
+  * kuran looks around and sees trees. notices a heavily overgrown guard tower. the vines and branches appear to be holding up the tower. there may be some left over stairs.
   * walls matted together to form little rooms at different parts under, around, and up the tower, and in the nearby trees. there is light coming through the cracks of a few of these.
   * ash recognizes these as an old sylvan sentinal tower.
   * ash gets closer and sees that there are signs of brownies.
@@ -478,16 +473,6 @@ or roll a d20, if 11 plus you restore a spell slot
   * the brownie (she) is skeptical
   * man and woman brownie come out with a bunch of 4oz cups of some kind of frothy liquid.
   * she throws a burning log into a fireplace.
-
-  “Travelers, I have asked Talia to seek you out, because I believe you have the best chance to succeed. Long ago, two wizards sought out ancient magical artifacts, near the town of Haling Cove. Archmage Roberto believed he could unravel their secrets and took with him a delegation to take the artifacts somewhere they could be kept safe and studied, whereas the younger, more ambitious Wizard Belven wanted to study them for himself, and knew as soon as they were in Roberto’s vaults they’d be out of his reach.
-
-“As Roberto prepared to take an artifact from the oceans, he was found murdered on the docks. Some suspected Belven, but the town of Haling Cove sided with Belven - they found him charming, and he planned to retrieve the tablet for himself.
-
-“A few months later, Belven was also found dead, his back full of tiny spears - likely the work of the The Sæsha'sol (The Sea Gloom). It’s uncertain whether he found and retrieved any of the artifacts or not.
-
-“Go to Haling Cove and find the artifacts. The fate of the Cloakwood, the Sea of Swords, and perhaps even Faerun itself hangs in the balance. I would do this task myself, but fear I would draw far too much attention to things that are best left quiet.
-
-“The presence of your Boggle suggests that the situation is worsening, and we can no longer simply watch.
 
 * aleric and lucy going to town.
 * aleric going through a long monolog to lucy, turns around, and she is gone.
@@ -518,7 +503,7 @@ or roll a d20, if 11 plus you restore a spell slot
 
 Sheriff Corrine Forton
 
-
+:
 \page
 
 {{wide
@@ -587,7 +572,7 @@ ___
 \page
 # People and Relationships
 
-::
+:
 
 {{monster,frame
 ### Aralin
@@ -599,10 +584,10 @@ ___
 
 }}
 
-::
+:
 
 {{monster,frame
-### The Brownies (General)
+### The Brownies (Group)
 *Fae of The Cloakwood*
 ___
 **Race** :: Fae
@@ -611,7 +596,7 @@ ___
 
 }}
 
-::
+:
 
 {{monster,frame
 ### Fudh
@@ -626,7 +611,7 @@ ___
 
 }}
 }}
-::
+:
 
 {{monster,frame
 ### Goim
@@ -641,7 +626,7 @@ ___
 
 }}
 }}
-::
+:
 
 {{monster,frame
 ### Grum
@@ -656,7 +641,23 @@ ___
 **Locations** :: [The Cloakwood](#the-cloakwood)
 }}
 }}
-::
+
+:
+
+{{monster,frame
+### The Gyrewalkers (Group)
+*Cyberpunk Nomadic Group*
+
+:
+
+___
+**Race** :: Unknown
+**Class**  :: Unknown
+**Locations** :: Everywhere
+}}
+
+:
+
 {{monster,frame
 ### Sæsephyr
 *Mysterious Mist Dragon*
@@ -672,8 +673,10 @@ ___
 **Locations** :: Cloakwood Coast
 }}
 }}
-
-
+:
+{{pageNumber,auto}}
+{{footnote Acquaintances}}
+\page
 {{monster,frame
 ### Talia
 *She has offered a job in the woods of Willdate, the Cloakwood.*
@@ -688,15 +691,24 @@ ___
 
 
 
-{{pageNumber,auto}}
-{{footnote Acquaintances}}
+
 \page
 
 # Locations
 
 :
 
-**area is known as the sword coast....fill this in.**
+{{monster,frame,wide
+### The Cloakwood
+*Population: Unknown*
+:
+The forests around [Willdale](#willdale) is commonly known as *The Cloakwood*. It is known to be inhabited by the [Brownies](#brownies), Fey, who typically keep to themselves. But lately they have been attacking the people of [Willdale](#willdale).
+
+:::::::::::::
+
+![cloakwood](https://github.com/method1020/Ash-Adventures/blob/main/images/locations/cloakwood-start.png?raw=true) {width:100%,mix-blend-mode:multiply}
+
+}}
 
 {{monster,frame,wide
 ### Haling Cove
@@ -711,6 +723,27 @@ ___
 
 ::
 
+
+{{pageNumber,auto}}
+{{footnote Locations}}
+
+\page
+
+{{monster,frame,wide
+### Sea of Swords
+*Population: Unknown*
+
+::
+*I have much to add here. - Ash*
+:::::::::::::
+
+
+
+}}
+
+::
+
+
 {{monster,frame,wide
 ### Willdale
 *Population: ~200*
@@ -720,24 +753,6 @@ ___
 ::
 
 ![willdale](https://github.com/method1020/Ash-Adventures/blob/main/images/locations/willdale.png?raw=true) {width:100%,mix-blend-mode:multiply}
-
-}}
-
-
-{{pageNumber,auto}}
-{{footnote Locations}}
-
-\page
-
-{{monster,frame,wide
-### The Cloakwood
-*Population: Unknown*
-:
-The forests around [Willdale](#willdale) is commonly known as *The Cloakwood*. It is known to be inhabited by the [Brownies](#brownies), Fey, who typically keep to themselves. But lately they have been attacking the people of [Willdale](#willdale).
-
-:::::::::::::
-
-![cloakwood](https://github.com/method1020/Ash-Adventures/blob/main/images/locations/cloakwood-start.png?raw=true) {width:100%,mix-blend-mode:multiply}
 
 }}
 
