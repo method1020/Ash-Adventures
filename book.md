@@ -503,6 +503,94 @@ Deciding to err on the side of caution, we trailed the centaurs from a safe dist
 
 Sheriff Corrine Forton
 
+
+## NEW SESH ... chapter iv?
+8/1/2023
+
+* in haling cove.
+* waking up from being at the inn.
+* matilda behind the counter
+* honeywell tavern
+* honewell mead, local favorite, glow tea, centaur made and grown, candlekeep pinot, fired seasweed crisps with house hot sauce, pickle wraps, 'grickles' wrapped in porton ham, honey glazed cod, seacliff stew, forest mushroom pie, honeyed pear tart, caldwell pears in haling honey, seaberry pudding, chef's favorite.
+* aleric likes hot sauce. really really likes hot sauce.
+* matilda went to the back to get the fried seaweed crisps that aleric ordered.
+* aleric asking locals about the local news.
+* ash looks at the local bulletin board. -- theres a wanted poster for a sort of centaur looking creature that i can't quite place. there are notes about joining the nightwatch that are prominantly placed, there is a sign about working at the docks. there does seem to be an old half of a poster mentioning something about the sheriff. not a lot of words on any of these.
+* nightwatch recruitment poster posted on top of the others.
+* aleric calls me over.
+* spicy mushroom knocks aleric out.
+* aleric asks matilda bout hte night watch.
+* uniformed nightwatch are sitting in the corner
+* matilda tells us to talk to a bearded man wearing armor.
+* aleric tries to read the crowd he is walking towards.
+* the two men feel very comfortable there -- they seem to be a little oblivious to our presense. they have had a fair amount of food and drink already.
+* bearded one seems more authoritative.
+* aleric approaches in a non threatening old man manor
+* i always admire a man with a good beard
+* and i really admire a man in a robe... why are you talking to me?
+* barkeep, matilda says you are hiring in the nightwatch.
+* 'magic folk dont make good guards'.
+* 'forgot how to cast spells did ya'
+* ash clears the table
+* nightwatch discovers ash's shenanigans, and tell us to meet them at teh nightwatch.
+* ash hands matilda two mushrooms, matilda takes them in a napkin.
+* commander roy medeza, terry thrampton.
+* ash recalls the thrampton lore. --  thramptons were one of the two biggest families in haling cove. been here for a while. there are stories about peter thrampton who went missing years and years ago when there was going to a mairrage between teh thramptons and another family. most of the family is made of people called 'peter' ... at least in the old times, not sure about now.
+
+* ash was there about when the quiet year happened, it was roughly 20-25 years.
+* kuran and ash
+
+* yo i got the shell will cal lyou.
+* something ahappens to ash, he is missing in the morning.
+* d3puty comes downstairs in the morning. matilda and some other man are behind the counter.
+* matilda thinks the nightwatch took ash.
+* d3puty, kuran, and aleric are headed to the docks to look for ash.
+* fishmonger shops are closed up, men working the docks.
+* d3puty looks for signs of ash.
+* d3puty sees signs of a struggle.
+* drag marks are headed to a building. the building has the sign of the nightwatch on it.
+* the group tries to sneak up to the building. kuran checks around and checks inside a window.
+* kuran sees some people working inside.-- three officers
+* there is a cell in the corner, ash is inside.
+* last night i made it to the dock, as i got closer to the dock i got jumped by some of the nightwatch. -- bagged and dragged back to the nightwatch hq and put me in a cell.
+* d3puty and aleric go into the building. -- kuran is outside -- looking around the building for another point of entry.
+* recognize medeza? and two d3puty doesn't recognize.
+* d3puty sees me in the cell. -- medeza says we're free to go.
+* d3puty says we are on a historical mission -- that we used to live there.
+* medez doesn't know we are lieing to him.
+* the man with the top hat...tattered suit, monicle, clear dirt stains but made of finer materials. he looks over d3puty and addresses aleric and says 'did you ah buy him from someone on the road?'
+* aleric responds 'no, i thought he was a trash can, but then he started talking'
+* 'i think we sold one of his kind recently to a trader' -- you wouldn't be robbers who stole or hijacked that cart did you? i never heard back from the man.
+* d3puty 'did you rob me from the cart?'
+* aleric freezes and responds 'ah, heh' ... 'um, hmmm.' ... 'ah, yeah we found you, we tried to find the origin of the supply crate but no one else was around the cart, and we headed on our way.'
+* didn't run into a trader named 'jerry did you? ' trader jerry'.
+* if you want i'll ah. i mean ah, i guess that's fine. i guess. i mean. if you are looking for more of him, i think we have some more parts. but we don't have any complete units left. -- d3puty is interested.
+* the nightwatch can obtain these parts. they aren't available to the public.
+* ash calls kuran to find out where he is. he gets back a garbled responce.
+* aleric asks medez about the strange things going on around town. are we safe walking around town.
+* the commander responds 'well you shoudl know that no one is moving goods into or out of town without the nightwatch. and crossing the mis not in your best interest.' 'now on the weird, this tow nhas a history of weird...these days its usually down by the beach. and usually the...well, i'd steer clear of the beach.
+* gateway to hell down by the beach.
+* they say creatures come out of it from time to time, but since we've built the wall they don't make it into town.
+* aleric gives a loook to deputy that we've gottne everythign we came for, d3puty knods back.
+* the nightwatch don't stop them from leaving.
+* ash wants to make another attmept to check around the docks for information.
+* ash sees a structure like a dockmasters station.
+* ash walks up and sees a guy missing a hand with a smelly white stubble on his face. and a grayish blueish swetter pulled over the other clothes. standing there with a chunk of cigar in his mouth.
+* offers us a dock hand job aroudn noon.
+* on the way down ash looks at a building, well kept residence, lush greenery, plants along the sides, white washed outer walls. ash remembers this being the main estate for the thrampton family. -- from here, as we go by, hear sounds of merryment inside, and  smells some fragrent herbs.
+* walking down the the beach. ... we approach the gateway to hell/rift, and we se a mesmorizing crack in the fabric of reality ... shimering irridecence, pulse and quiver as if alive. prismatic colors dance around on the sand. appears to be 20-30ft long, about 5 ft wide at the widest along the beach. appears to be on the ground.
+* ash tries to throw a rock into the rift, but aleric stops him.
+* along side the beach there appears to be a cliff, 20-30ft of rock. and a gap near the opening, where people have built a wall across this enterance to the beach, that is as tall as the cliffs on either side.
+* aleric looks around to see if anyone is watching. -- he feels as though he is being watched from two directions. uneasy feeling from the sea itself, as if there might be creatures watching from the water, or from the surface of the water. beyond that the rift makes him feel as if he were closer he might be seen from the rift itself. aleric speeks softly 'we are not the only ones here -- this could be bad'.
+* ash goes to the water to see if antyhing is off. i reach my hand down to the water and notice a 3ft long speer just below the waves in the water.
+* pull up a spear in hte water. got hte spear.
+* looks like a broken off spear head. may have been longer. the pointy end adn a chunk of the handle. appears to be some sort of fighting spear. not the kind a fisherman would use.
+* attempt to check the spear but don't find anything useful. spear doesn't appear to be magical. may be some markings on it that suggest it could have been, or belonged to the pigmy's that were rumored to live off the coast. -- pigmy spear.
+* belvin was killed with tiny spears.
+* d3puty recalls how belvin was killed.
+* ash finds a cool rock and goes to throw it in the hell hole.
+* a dart goes wizzing past ash and lands in the sand.
+* turn and look and see the top of someoens head in the water with a blow gun.
 :
 \page
 
