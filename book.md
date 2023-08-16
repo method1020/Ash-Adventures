@@ -433,9 +433,19 @@ Providing us with invaluable information, they confirmed the route to Haling Cov
 Deciding to err on the side of caution, we trailed the centaurs from a safe distance until the silhouette of Haling Cove began to take shape through the darkened trees. 
 :
 #### Familiar Woods
+:
+We arrived at the outskirts of Haling Cove as the sun began to surrender to the encroaching darkness. Our path led us to a somber clearing that stirred a chilling memory from my childhood. I found myself drawn to it, my heart sinking as the realization of what lay beneath the surface dawned on me. 
+:
+This was a mass grave, a grim testament to the days when a flood of sick refugees sought sanctuary within Haling Cove's walls, only to be denied entry. The memory of the refugees' fate, dying en masse virtually overnight, still bore heavy on my heart. They were buried here, far from the safety and warmth of their homes, their lives reduced to untended mounds of earth. 
+:
+[D3PUTY](#d3puty) tried to dredge up any memories of Haling Cove, but to no avail. The city, it seemed, was buried under layers of forgotten memories, much like the refugees under the soil.
+:
+Peering into the gathering dusk, I sought signs of the Sylvan Sentinels in the treeline, but the forest stood silent and still. However, the path stretching towards the right was a familiar sight. I remembered it being a bustling route leading to the town, often teeming with foot traffic. 
+:
+To the left lay another path, one that diverged towards an old mining camp. The choice ahead of us was clear - venture into the heart of Haling Cove or explore the forgotten remnants of the mining camp. 
+:
 
-
-**STUFF BELOW NEEDS TO BE EDITED/REWRITTEN.**
+<!--
   
 * we get to howling cove.
   * we are coming in at dusk.
@@ -447,6 +457,10 @@ Deciding to err on the side of caution, we trailed the centaurs from a safe dist
   * ash looks out for sylvan sentinals but doesnt see anything.
   * ash recalls that the path to the right goes to town. as it was a major source of foot traffic.
 :
+
+-->
+
+<!--
 * resting
   * we decide to rest at a small abandoned camp nearby.
   * lucy searches the tents while we all rest.
@@ -455,14 +469,39 @@ Deciding to err on the side of caution, we trailed the centaurs from a safe dist
   * d3puty looks into the trees and feels the presence of fae. he sees a sylvan tower.
   * lucy looks at the map from the brownies and shows that part of the map indicates a part of the map nearby and shows a brownie settlement not too far away.
 :
+-->
+
+#### Short Rest in the Abandond Mining Camp
+:
+Having decided to rest for the night, we found a suitable spot in an abandoned camp close by. While we settled, [Lucy](#lucy) took it upon herself to scout the area, perusing the remnants of the camp's past life. She returned with an assortment of discarded objects - a pair of antlers, some skins - tangible traces of those who had once inhabited these tents.
+:
+To our north, a dormant mine sprawled out, its entrance yawning open like a mouth in the earth. Rusting, forgotten equipment hinted at its past hustle and bustle. [D3PUTY](#d3puty), meanwhile, peered into the forests' shadows, seemingly drawn in by an inexplicable presence. He was confident he sensed the Fae and even speculated about spotting a Sylvan tower amid the foliage. 
+:
+[Lucy](#lucy) then brandished the map we'd received from the Brownies. According to her interpretation, part of the map suggested a section of the nearby forest. It also marked a Brownie settlement within what seemed to be a manageable distance from our current location.
+:
+
+{{pageNumber,auto}}
+{{footnote Chapter 2 | Haling Cove}}
+\page
+
+As we hunkered down for the night, the thought of what the new dawn would bring hung heavily in the air.
+:
+
+<!--
+- Asheris Starlage
+
 * cliff climb.
   * ash and d3puty climb the cliff. lucy and kuran fall down.
   * aleric is walking around via the path. uses lucy's drift orb to light his way.
   * ash ties a rope around d3puty and and kuran climb up.
   * lucy chaces after aleric and follows with him up the path.
 :
-\page
-:
+-->
+
+#### Haling Cliffs
+
+<!--
+
 * walk
   * aleric looks around adn doesnt see much.
   * kuran looks around and sees trees. notices a heavily overgrown guard tower. the vines and branches appear to be holding up the tower. there may be some left over stairs.
@@ -473,7 +512,24 @@ Deciding to err on the side of caution, we trailed the centaurs from a safe dist
   * the brownie (she) is skeptical
   * man and woman brownie come out with a bunch of 4oz cups of some kind of frothy liquid.
   * she throws a burning log into a fireplace.
+-->
 
+After a brief respite, our party decided to push on towards the town. We chose to stick to the cover of the woods for our approach, all except [Aleric](#aleric-mysticmind-stoneweaver) who preferred to follow the road. [D3PUTY](#d3puty) and I successfully scaled the cliffside near the mine's opening, though [Kuran](#kuran) and [Lucy](#lucy) weren't as fortunate, their attempts ending in a tumble. As [Aleric](#aleric-mysticmind-stoneweaver) set off on his own, he employed [Lucy](#lucy)'s drift orb to light his way, prompting [Lucy](#lucy) to chase after him and join him on the road.
+
+:
+Meanwhile, I tied a rope around [D3PUTY](#d3puty) and helped [Kuran](#kuran) up the cliff. Once reunited, we pressed on, under the cloak of the woods. [Aleric](#aleric-mysticmind-stoneweaver), now accompanied by [Lucy](#lucy), continued along the road, peering into the darkness of the forest but seeing little.
+
+:
+While moving through the heavy woods, [Kuran](#kuran) managed to discern the outline of a heavily overgrown guard tower in the forest. The tower, nearly consumed by creeping vines and interlacing branches, appeared to have several rooms formed within and around it, their windows glowing faintly with light.
+
+:
+Recognizing this as an old Sylvan sentinel tower, I approached cautiously, finding evidence of Brownie inhabitants. Choosing to introduce ourselves as friends of Fud and Goim (an unabashed falsehood), we managed to gain a skeptical audience with the Brownie woman who answered the door.
+
+:
+In exchange for a modest offering of gold, we were served small cups of frothy liquid by a pair of Brownies, and our hostess stoked the fire in a welcoming gesture, throwing a burning log into the fireplace.
+
+
+<!--
 * aleric and lucy going to town.
 * aleric going through a long monolog to lucy, turns around, and she is gone.
 * as he approaches town, he hears a voice calling out to him.
@@ -592,6 +648,7 @@ Sheriff Corrine Forton
 * a dart goes wizzing past ash and lands in the sand.
 * turn and look and see the top of someoens head in the water with a blow gun.
 :
+-->
 \page
 
 {{wide
